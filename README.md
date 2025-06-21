@@ -14,3 +14,10 @@ This is a web app that lets users generate images of handwritten digits (0–9) 
 
 1. Clone the repo
 2. Install requirements:
+
+3. Run the app:
+https://imagenumbergenerationmodel-kuvznxvt2pzjmrnu3pnjnt.streamlit.app/
+
+## Live App
+
+[🔗 Click to launch app](https://imagenumbergenerationmodel-kuvznxvt2pzjmrnu3pnjnt.streamlit.app/)
